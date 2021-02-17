@@ -21,12 +21,13 @@ float aplicarIva(float valorProducto, float iva){
 
 int main(){
 
-    float valorProducto, iva;
+    float valorProducto;
+	float iva;
     
     cout << " Introduzca el precio del producto al que le aplicara el IVA: ";
 	cin >> valorProducto; 
 
-    cout << " Introduzca el valor del iva a aplicar:  ";
+    cout << " Introduzca el valor del iva a aplicar [Entero]:  ";
 	cin >> iva;
 	
 	cout << " El resultado del producto con iva incluido es " << aplicarIva(valorProducto, iva) << endl;
