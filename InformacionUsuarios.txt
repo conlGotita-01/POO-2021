@@ -1,0 +1,13 @@
+	 Informacion Personal
+Nombre: Brenda
+Apellido: Torres
+Telefono: 3202645124
+
+Nombre: Luisa
+Apellido: Rincon
+Telefono: 3183905483
+
+Nombre: Juan
+Apellido: Gomez
+Telefono: 3217400766
+
